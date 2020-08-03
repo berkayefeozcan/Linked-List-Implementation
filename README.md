@@ -6,15 +6,11 @@ This repository include 3rd project of 'Programming Lab-1' at Computer Engineeri
 ## Özet 
 Bu programda şehirler ve komşuları arasındaki ilişkiyi  linked list (bağlı liste) veri yapısı ile oluşturduk. 
 
-
-## Geliştiriciler 
-Berkay Efe ÖZCAN , Cumali TOPRAK
-
 ## Abstract 
 In this program, we created the relationship between cities and their neighbors with the linked list data structure.
 
 
-## Developers 
+## Developers / Geliştiriciler 
 Berkay Efe ÖZCAN , Cumali TOPRAK
   
 
